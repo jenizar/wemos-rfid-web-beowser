@@ -15,4 +15,4 @@ wemos d1 mini, rfid rc522, psu 5v, breadboard, jumper cable.
 
 reference:
 
-https://youtu.be/okNECYf2xlY
+https://github.com/jenizar/display-and-save-kitchen-scale-data-using-esp8266-php-and-mysql
